@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Home Page</title>
+	<title>Contact</title>
 	<link rel="stylesheet" href="styles.css">
 	<script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
 </head>
@@ -10,7 +10,7 @@
 
 <div class="wrapper">
     <div class="sidebar">
-        <h2>HOME PAGE</h2>
+        <h2>Contact Us</h2>
         <ul>
             <li><a href="index.html"><i class="fas fa-home"></i>Home</a></li>
             
@@ -21,12 +21,16 @@
             
         </ul> 
         
+         
+      
     </div>
     <div class="main_content">
-        <div class="header">Welcome!! Have a nice day.</div>  
+        <div class="header">Welcome!! Contact Us</div>  
         <div class="info">
           <div>welcome to our website</div>
-          <div>copy the file in github.com</div>
+          <div>Contact Us in Gmail:Ponjelloydjan6@gmail.com</div>
+           <div>Contact No. Globe09162860933</div>
+          <div>Copy File in github</div>
           <div>username:PONJELLOYDJAN</div>
       </div>
     </div>
